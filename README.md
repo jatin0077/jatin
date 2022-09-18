@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jatin Sachdeva</h1>
 <h3 align="center">A passionate data scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="left" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin0077&label=Profile%20views&color=0e75b6&style=flat" alt="jatin0077" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=jatin0077&label=Profile%20views&color=0e75b6&style=flat" alt="jatin0077" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatin0077" alt="jatin0077" /></a> </p>
+<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatin0077" alt="jatin0077" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/beast_jatin7" target="blank"><img src="https://img.shields.io/twitter/follow/beast_jatin7?logo=twitter&style=for-the-badge" alt="beast_jatin7" /></a> </p>
 
@@ -30,9 +30,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/jatincodes"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jatincodes" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatin0077&show_icons=true&locale=en&layout=compact" alt="jatin0077" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatin0077&show_icons=true&locale=en&layout=compact" alt="jatin0077" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatin0077&show_icons=true&locale=en" alt="jatin0077" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jatin0077&show_icons=true&locale=en" alt="jatin0077" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin0077&" alt="jatin0077" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin0077&" alt="jatin0077" /></p>
 	
